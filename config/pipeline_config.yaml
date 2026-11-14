@@ -1,0 +1,13 @@
+input_dir: data/generated
+output_dir: outputs
+reports_dir: reports
+dataset_size: 10000
+random_seed: 20261111
+invalid_percent: 0.03
+spark_master: local[*]
+spark_app_name: RetailFlow
+shuffle_partitions: 8
+broadcast_threshold_bytes: 10485760
+benchmark_repetitions: 3
+batch_id: retailflow_default
+logging_level: INFO

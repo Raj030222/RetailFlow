@@ -1,0 +1,30 @@
+{
+    "status":  "FAIL",
+    "input_records":  1001,
+    "valid_records":  970,
+    "rejected_records":  30,
+    "rejection_reason_counts":  {
+                                    "invalid_product_reference":  5,
+                                    "negative_quantity":  5,
+                                    "zero_quantity":  5,
+                                    "missing_transaction_id":  5,
+                                    "missing_customer_id":  5,
+                                    "invalid_customer_reference":  5
+                                },
+    "duplicate_records":  1,
+    "malformed_records":  0,
+    "malformed_records_by_dataset":  {
+                                         "customers":  0,
+                                         "products":  0,
+                                         "transactions":  0
+                                     },
+    "duplicate_dimension_keys":  {
+                                     "customers":  0,
+                                     "products":  0
+                                 },
+    "missing_dimension_keys":  {
+                                   "customers":  0,
+                                   "products":  0
+                               },
+    "reconciled":  true
+}

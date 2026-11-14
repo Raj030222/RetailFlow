@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "input_records": 1001,
+  "valid_records": 970,
+  "rejected_records": 30,
+  "duplicate_records": 1,
+  "output_records": 970,
+  "primary_key_unique": true,
+  "referential_integrity": true,
+  "total_revenue": "251919.00",
+  "total_units_sold": 4395,
+  "baseline_vs_optimized": "not_compared",
+  "mode": "baseline"
+}

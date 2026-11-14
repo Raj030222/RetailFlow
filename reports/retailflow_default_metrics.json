@@ -1,0 +1,19 @@
+{
+  "run_id": "697805e7118d43db8f2c6db359ea6217",
+  "batch_id": "retailflow_default",
+  "pipeline_name": "RetailFlow",
+  "mode": "baseline",
+  "start_time": "2026-11-13T21:27:08.989727+00:00",
+  "end_time": "2026-11-13T21:28:16.519813+00:00",
+  "execution_duration": 65.26559421799993,
+  "input_records": 10001,
+  "valid_records": 9700,
+  "rejected_records": 300,
+  "duplicate_records": 1,
+  "output_records": 9700,
+  "pipeline_status": "SUCCESS",
+  "publication_state": "PUBLISHED",
+  "publication_target": "outputs/runs/retailflow_default",
+  "publication_backup_path": null,
+  "publication_cleanup_error": null
+}

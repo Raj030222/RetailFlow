@@ -1,0 +1,19 @@
+{
+  "run_id": "60b31c06d81a496685c353f158247ef3",
+  "batch_id": "phase2l_20261114_base",
+  "pipeline_name": "RetailFlow",
+  "mode": "baseline",
+  "start_time": "2026-11-14T01:55:09.865995+00:00",
+  "end_time": "2026-11-14T01:55:48.922602+00:00",
+  "execution_duration": 38.2335626660024,
+  "input_records": 1001,
+  "valid_records": 970,
+  "rejected_records": 30,
+  "duplicate_records": 1,
+  "output_records": 970,
+  "pipeline_status": "SUCCESS",
+  "publication_state": "PUBLISHED",
+  "publication_target": "outputs/runs/phase2l_20261114_base",
+  "publication_backup_path": null,
+  "publication_cleanup_error": null
+}
